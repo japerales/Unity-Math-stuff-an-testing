@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Magic
+  - Intelligence
+  - Charisma
+  - Invisible
+  - Fly
+  - AntiMagic
+  - AntiIntelligence
+  - AntiCharisma
+  - AntiInvisible
+  - AntiFly
+  - Add
+  - Remove
   layers:
   - Default
   - TransparentFX
